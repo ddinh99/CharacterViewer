@@ -1,6 +1,6 @@
 # simpsonsviewer
 
-Flutter - Anywhere Mobile Engineer Candidate Code Excercise.
+Flutter - Anywhere Mobile Engineer Candidate Code Exercise.
 The app descriptions and requirements are below.  
 
 The idea of this file is to give instructions on how to build the applications
